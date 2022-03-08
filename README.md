@@ -1,6 +1,9 @@
 # hse_hw2_chip
 
-# рассмотрим отчеты FastQC по файлам
+# Ссылка на колаб  
+https://colab.research.google.com/drive/1bbKq4nKB0Wf3mq06VFC1D0aS7xgV70yq?usp=sharing
+
+# Рассмотрим отчеты FastQC по файлам
 
 |  | Реплика 1| Реплика 2 | Контроль |
 | :---: | :---: | :---: | :---: |
